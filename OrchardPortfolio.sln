@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{327799EF-9540-426B-98B6-F2585BF8CB81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardPortfolio.Web", "src\OrchardPortfolio.Web\OrchardPortfolio.Web.csproj", "{247C3F60-B9F0-4678-B396-865F21D18731}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{26F4427B-82DB-4B69-8B8C-01C6C19E5B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardPortfolio.Module", "src\Modules\OrchardPortfolio.Module\OrchardPortfolio.Module.csproj", "{42FE102A-CD17-4211-97D4-9FAF53173825}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{46BEBEB2-54E4-4704-9CC4-3DF8CBC93D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardPortfolio.Theme", "src\Themes\OrchardPortfolio.Theme\OrchardPortfolio.Theme.csproj", "{B5BC5A51-99E9-430C-8DC5-62BC07D73C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247C3F60-B9F0-4678-B396-865F21D18731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247C3F60-B9F0-4678-B396-865F21D18731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247C3F60-B9F0-4678-B396-865F21D18731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247C3F60-B9F0-4678-B396-865F21D18731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FE102A-CD17-4211-97D4-9FAF53173825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FE102A-CD17-4211-97D4-9FAF53173825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FE102A-CD17-4211-97D4-9FAF53173825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FE102A-CD17-4211-97D4-9FAF53173825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5BC5A51-99E9-430C-8DC5-62BC07D73C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BC5A51-99E9-430C-8DC5-62BC07D73C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BC5A51-99E9-430C-8DC5-62BC07D73C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BC5A51-99E9-430C-8DC5-62BC07D73C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{247C3F60-B9F0-4678-B396-865F21D18731} = {327799EF-9540-426B-98B6-F2585BF8CB81}
+		{26F4427B-82DB-4B69-8B8C-01C6C19E5B98} = {327799EF-9540-426B-98B6-F2585BF8CB81}
+		{42FE102A-CD17-4211-97D4-9FAF53173825} = {26F4427B-82DB-4B69-8B8C-01C6C19E5B98}
+		{46BEBEB2-54E4-4704-9CC4-3DF8CBC93D27} = {327799EF-9540-426B-98B6-F2585BF8CB81}
+		{B5BC5A51-99E9-430C-8DC5-62BC07D73C85} = {46BEBEB2-54E4-4704-9CC4-3DF8CBC93D27}
+	EndGlobalSection
+EndGlobal
