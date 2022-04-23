@@ -1,0 +1,17 @@
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/bin/Debug/net6.0/OrchardPortfolio.Module.deps.json
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/bin/Debug/net6.0/OrchardPortfolio.Module.dll
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/bin/Debug/net6.0/ref/OrchardPortfolio.Module.dll
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/bin/Debug/net6.0/OrchardPortfolio.Module.pdb
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.csproj.AssemblyReference.cache
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.AssemblyInfoInputs.cache
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.AssemblyInfo.cs
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.csproj.CoreCompileInputs.cache
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.RazorAssemblyInfo.cache
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.RazorAssemblyInfo.cs
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/staticwebassets.build.json
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/staticwebassets.development.json
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/scopedcss/bundle/OrchardPortfolio.Module.styles.css
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.dll
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/ref/OrchardPortfolio.Module.dll
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/Debug/net6.0/OrchardPortfolio.Module.pdb

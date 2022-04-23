@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8DKmLu6ltagDAQAcBo8GoBJ4FDoG/BqnSM+65sc6EBI=",
+  "Source": "OrchardPortfolio.Module",
+  "BasePath": "_content/OrchardPortfolio.Module",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

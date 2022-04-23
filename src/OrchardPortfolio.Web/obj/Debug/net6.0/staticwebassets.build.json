@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "Hash": "soSGrmlvzwZGE0rVgZCHqEvB0qunM4CGi60qVa90YW4=",
+  "Source": "OrchardPortfolio.Web",
+  "BasePath": "_content/OrchardPortfolio.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/OrchardPortfolio.Module.csproj",
+      "Version": 2,
+      "Source": "OrchardPortfolio.Module",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/OrchardPortfolio.Theme.csproj",
+      "Version": 2,
+      "Source": "OrchardPortfolio.Theme",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrchardPortfolio.Web/wwwroot",
+      "Source": "OrchardPortfolio.Web",
+      "ContentRoot": "/Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web/wwwroot/",
+      "BasePath": "_content/OrchardPortfolio.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web/wwwroot/.placeholder",
+      "SourceId": "OrchardPortfolio.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web/wwwroot/",
+      "BasePath": "_content/OrchardPortfolio.Web",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.placeholder"
+    }
+  ]
+}

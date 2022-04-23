@@ -1,0 +1,6 @@
+2022-04-23 13:57:53.4134||||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|WARN|No XML encryptor configured. Key {a3686b55-b11f-42af-957e-e606c75ec2f7} may be persisted to storage in unencrypted form. 
+2022-04-23 13:58:01.7347||||Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2022-04-23 13:58:01.9524||||Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2022-04-23 13:58:01.9636||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2022-04-23 13:58:01.9694||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2022-04-23 13:58:01.9715||||Microsoft.Hosting.Lifetime|INFO|Content root path: /Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web 

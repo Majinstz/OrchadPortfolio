@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web/OrchardPortfolio.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/OrchardPortfolio.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/OrchardPortfolio.Module.csproj",
+        "projectName": "OrchardPortfolio.Module",
+        "projectPath": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/OrchardPortfolio.Module.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OrchardCore.ContentManagement": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            },
+            "OrchardCore.ContentTypes.Abstractions": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            },
+            "OrchardCore.DisplayManagement": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            },
+            "OrchardCore.Module.Targets": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web/OrchardPortfolio.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web/OrchardPortfolio.Web.csproj",
+        "projectName": "OrchardPortfolio.Web",
+        "projectPath": "/Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web/OrchardPortfolio.Web.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Documents/git-repos/OrchadPortfolio/src/OrchardPortfolio.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/OrchardPortfolio.Module.csproj": {
+                "projectPath": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Modules/OrchardPortfolio.Module/OrchardPortfolio.Module.csproj"
+              },
+              "/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/OrchardPortfolio.Theme.csproj": {
+                "projectPath": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/OrchardPortfolio.Theme.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OrchardCore.Application.Cms.Targets": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            },
+            "OrchardCore.Logging.NLog": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/OrchardPortfolio.Theme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/OrchardPortfolio.Theme.csproj",
+        "projectName": "OrchardPortfolio.Theme",
+        "projectPath": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/OrchardPortfolio.Theme.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OrchardCore.ContentManagement": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            },
+            "OrchardCore.DisplayManagement": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            },
+            "OrchardCore.ResourceManagement": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            },
+            "OrchardCore.Theme.Targets": {
+              "target": "Package",
+              "version": "[1.3.0-preview-16386, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

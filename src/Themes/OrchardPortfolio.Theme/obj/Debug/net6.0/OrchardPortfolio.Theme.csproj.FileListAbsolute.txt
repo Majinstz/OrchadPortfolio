@@ -1,0 +1,15 @@
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/bin/Debug/net6.0/OrchardPortfolio.Theme.deps.json
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/bin/Debug/net6.0/OrchardPortfolio.Theme.dll
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/bin/Debug/net6.0/ref/OrchardPortfolio.Theme.dll
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/bin/Debug/net6.0/OrchardPortfolio.Theme.pdb
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/OrchardPortfolio.Theme.csproj.AssemblyReference.cache
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/OrchardPortfolio.Theme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/OrchardPortfolio.Theme.AssemblyInfoInputs.cache
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/OrchardPortfolio.Theme.AssemblyInfo.cs
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/OrchardPortfolio.Theme.csproj.CoreCompileInputs.cache
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/staticwebassets.build.json
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/staticwebassets.development.json
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/scopedcss/bundle/OrchardPortfolio.Theme.styles.css
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/OrchardPortfolio.Theme.dll
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/ref/OrchardPortfolio.Theme.dll
+/Users/david/Documents/git-repos/OrchadPortfolio/src/Themes/OrchardPortfolio.Theme/obj/Debug/net6.0/OrchardPortfolio.Theme.pdb

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{247C3F60-B9F0-4678-B396-865F21D18731}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.OrchardPortfolio.Web PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/OrchardPortfolio.Web/Program.cs">
+    <Files>
+      <File FileName="src/OrchardPortfolio.Web/Program.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrchardPortfolio" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="OrchardPortfolio.Web" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
